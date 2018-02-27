@@ -1,0 +1,6 @@
+﻿1.Namespace
+2.class
+3.methods
+4.differemt types of methods
+5.constructres
+6.DataTypes
